@@ -1,0 +1,47 @@
+.title{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+.stats{
+    font-family: Arial;
+    font-size: 14px; 
+    color: rgb(96, 96, 96); 
+    margin-top: 0;
+    margin-bottom: 20;
+}
+.name{
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 0;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+.text{
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 0; 
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+.footer{
+    margin-bottom: 50px;
+    font-family: arial;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+
+.shop:hover{
+    text-decoration: underline; 
+    cursor: pointer;
+}
+    
